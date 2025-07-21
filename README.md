@@ -31,3 +31,12 @@ Te interesa mi perfil? me pueden contactar por:
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
+
+ 
+<h3> 🚀 Proyectos Destacados </h3>
+
+🗂️ [**Prueba Tecnica tabla de datos en REACT, Front End**](https://github.com/SunlightShield/prueba_tecnica_medsolution-Front)  
+Front End creado en React con Material UI, parte de una prueba tecnica se usa en conjunto con el proyecto de Backend
+
+🗂️ [**Prueba Tecnica tabla de datos en NODE, Back End**](https://github.com/SunlightShield/prueba_tecnica_medsolution-Backend)  
+Back End creado en NODE, parte de una prueba tecnica se usa en conjunto con el proyecto de Front End
