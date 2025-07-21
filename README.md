@@ -8,12 +8,6 @@ Soy un desarrollador Front End, de Chile, entre mis proyectos y conocimientos pu
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) y 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) para la capa de CSS. Tambien, destaco mi conocimiento en ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) y en ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) a la hora de trabajar como Front End
 
-<h3> 📬 Contáctame </h3>
-
-Te interesa mi perfil? me pueden contactar por:
-
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sespinozahenriquez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-espinoza-software-developer/)
 
 <h3>🧠 Tecnologías</h3>
 
@@ -40,3 +34,12 @@ Front End creado en React con Material UI, parte de una prueba tecnica se usa en
 
 🗂️ [**Prueba Tecnica tabla de datos en NODE, Back End**](https://github.com/SunlightShield/prueba_tecnica_medsolution-Backend)  
 Back End creado en NODE, parte de una prueba tecnica se usa en conjunto con el proyecto de Front End
+
+
+<h3> 📬 Contáctame </h3>
+
+Te interesa mi perfil? me pueden contactar por:
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sespinozahenriquez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-espinoza-software-developer/)
+Gracias!
